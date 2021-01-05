@@ -17,5 +17,7 @@ Today I worked on the first two lessons within the Data Visualization course on 
 
 Kaggle - Data Visualization: https://www.kaggle.com/learn/data-visualization
 
+**Day 3:**
 
+Today I worked on learning how to produce barplots and heatmaps using Seaborn. I didn't have as much time this morning to finish the Data Visualization certificate. If I'm not able to get back to it today after work, I'd like to find time to finish it tomorrow.
 

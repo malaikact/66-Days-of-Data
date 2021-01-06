@@ -21,3 +21,5 @@ Kaggle - Data Visualization: https://www.kaggle.com/learn/data-visualization
 
 Today I worked on learning how to produce barplots, heatmaps and scatterplots using Seaborn. I didn't have as much time this morning to finish the Data Visualization certificate. If I'm not able to get back to it today after work, I'd like to find time to finish it tomorrow.
 
+**Day 4:**
+I finally finished the data visualization certificate! It has definitely been hard to put in the work while working a full time job and having a new puppy at home. I like to find at least an hour to sit down and get some learning in. Today I was taught some more plots that I can create using Seaborn. I also learned which plots are best to use in different cases and how to style charts in different ways. I can definitely say that data visulaization is one of my favourite parts of the data analyzing process. I enjoy being able to tell a story from a visual. Check out the "Certificates" folder to see my new certificate!

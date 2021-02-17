@@ -29,3 +29,7 @@ I have found myself much busier than usual at the beginning of 2021 and wasn't a
 
 Kaggle - Pandas: https://www.kaggle.com/learn/pandas
 
+**Day 7** 
+Today is the first day of the Lighthouselabs 21 day challenge. Today's challenge was all about strings. I was able to complete the challenge with no issues. \
+I then spent more time reviewing strings and learning about f-strings. It's interesting that in all the Python courses I've taken, this is my first time learning about the f-string feature. \
+For more info you can visit https://realpython.com/python-f-strings/#multiline-f-strings.

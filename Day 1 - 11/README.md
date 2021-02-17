@@ -23,3 +23,9 @@ Today I worked on learning how to produce barplots, heatmaps and scatterplots us
 
 **Day 4:**
 I finally finished the data visualization certificate! It has definitely been hard to put in the work while working a full time job and having a new puppy at home. I like to find at least an hour to sit down and get some learning in. Today I was taught some more plots that I can create using Seaborn. I also learned which plots are best to use in different cases and how to style charts in different ways. I can definitely say that data visualization is one of my favourite parts of the data analyzing process. I enjoy being able to tell a story from a visual. Check out the "Certificates" folder to see my new certificate!
+
+**Day 5&6:**
+I have found myself much busier than usual at the beginning of 2021 and wasn't able to keep up with the 66 days of data challenge. However, I'm back and ready to continue from where I left off. The past two days I have worked on enhancing my phython skills using the pandas library. I have succesfully started and c ompleted the course on Kaggle. Check out the "Certificates" folder to see my new certificate!
+
+Kaggle - Pandas: https://www.kaggle.com/learn/pandas
+

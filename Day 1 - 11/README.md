@@ -33,3 +33,7 @@ Kaggle - Pandas: https://www.kaggle.com/learn/pandas
 Today is the first day of the Lighthouselabs 21 day challenge. Today's challenge was all about strings. I was able to complete the challenge with no issues. \
 I then spent more time reviewing strings and learning about f-strings. It's interesting that in all the Python courses I've taken, this is my first time learning about the f-string feature. \
 For more info you can visit https://realpython.com/python-f-strings/#multiline-f-strings.
+
+**Day 8**
+I completed Day 2 of the Lighthouse Labs challenge! Today focused on lists, tuples, integers and floats. I read about the different properties of a list and a tuple as well as the difference between an integer and a float. 
+Although I have already learned about these features in Python, it's nice to go back and take some time to refresh my memory. I definitely learned some things today that I did not know or remember from my previous Python training. 

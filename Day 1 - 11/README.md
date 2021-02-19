@@ -37,3 +37,6 @@ For more info you can visit https://realpython.com/python-f-strings/#multiline-f
 **Day 8**
 I completed Day 2 of the Lighthouse Labs challenge! Today focused on lists, tuples, integers and floats. I read about the different properties of a list and a tuple as well as the difference between an integer and a float. 
 Although I have already learned about these features in Python, it's nice to go back and take some time to refresh my memory. I definitely learned some things today that I did not know or remember from my previous Python training. 
+
+**Day 9** 
+Day 3 of the Lighthouse Labs challenge is complete! Today was all about indexing lists. Using features such as .append(), .insert() and .pop() to edit a list. 

@@ -40,3 +40,6 @@ Although I have already learned about these features in Python, it's nice to go 
 
 **Day 9** 
 Day 3 of the Lighthouse Labs challenge is complete! Today was all about indexing lists. Using features such as .append(), .insert() and .pop() to edit a list. 
+
+**Day 10** 
+Day 4 of the Lightouse Labs challenge was about for loops. It was a great refresher as I had forgotten some small features regarding the for loops. I also started learning about geospatial analysis on Kaggle and I've completed the first two lessons in the course!

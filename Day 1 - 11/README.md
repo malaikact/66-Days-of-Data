@@ -43,3 +43,6 @@ Day 3 of the Lighthouse Labs challenge is complete! Today was all about indexing
 
 **Day 10** 
 Day 4 of the Lightouse Labs challenge was about for loops. It was a great refresher as I had forgotten some small features regarding the for loops. I also started learning about geospatial analysis on Kaggle and I've completed the first two lessons in the course!
+
+**Day 11**
+Day 5 of the Lighthouse Labs challenge focused on conditional logic and control statements. It was nice to refresh my memory on the rules associated with these features. 
